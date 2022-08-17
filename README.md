@@ -15,16 +15,19 @@ After completion of the two SQL projects, we are to provide a report that summar
 ### Number of Retiring Employees
 
 -Query created to develop a Retirement Titles table for employees born between January 1, 1952 and December 31, 1955.  CSV file created.
+
 ![Retirement_Titles.png](https://github.com/nkinsler/Pewlett_Hackard-Analysis/blob/main/PNG/Retirement%20Titles%20SQL.png)!
 
 [Retirement_Titles.csv](https://github.com/nkinsler/Pewlett_Hackard-Analysis/blob/main/Data/retirement_titles.csv)
 
 -Query created to develop a Unique Titles table that contains employee number, first and last name, and title.  CSV file created.
+
 ![Unique_Titles.png](https://github.com/nkinsler/Pewlett_Hackard-Analysis/blob/main/PNG/Unique%20titles%20SQL.png)!
 
 [Unique_Titles.csv](https://github.com/nkinsler/Pewlett_Hackard-Analysis/blob/main/Data/unique_titles.csv)
 
 -Query created to develop a Retiring Titles table the contains the number of titles filled by employees who are retiring.  CSV created.
+
 ![Retiring_Titles.png](https://github.com/nkinsler/Pewlett_Hackard-Analysis/blob/main/PNG/Retiring%20Titles%20SQL.png)!
 
 [Retiring_Titles.csv](https://github.com/nkinsler/Pewlett_Hackard-Analysis/blob/main/Data/retiring_titles.csv)
@@ -36,6 +39,7 @@ After completion of the two SQL projects, we are to provide a report that summar
 ### Employees Eligible for Mentorship Program
 
 -Query created to develop a Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.  CSV created.
+
 ![Mentoring_Eligibility.png](https://github.com/nkinsler/Pewlett_Hackard-Analysis/blob/main/PNG/Mentorship%20Eligibility%20SQL.png)!
 
 [Mentoring_Eligibility.csv](https://github.com/nkinsler/Pewlett_Hackard-Analysis/blob/main/Data/membership_eligibility.csv)
