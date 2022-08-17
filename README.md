@@ -16,14 +16,17 @@ After completion of the two SQL projects, we are to provide a report that summar
 
 -Query created to develop a Retirement Titles table for employees born between January 1, 1952 and December 31, 1955.  CSV file created.
 ![Retirement_Titles.png](https://github.com/nkinsler/Pewlett_Hackard-Analysis/blob/main/PNG/Retirement%20Titles%20SQL.png)!
+
 [Retirement_Titles.csv](https://github.com/nkinsler/Pewlett_Hackard-Analysis/blob/main/Data/retirement_titles.csv)
 
 -Query created to develop a Unique Titles table that contains employee number, first and last name, and title.  CSV file created.
 ![Unique_Titles.png](https://github.com/nkinsler/Pewlett_Hackard-Analysis/blob/main/PNG/Unique%20titles%20SQL.png)!
+
 [Unique_Titles.csv](https://github.com/nkinsler/Pewlett_Hackard-Analysis/blob/main/Data/unique_titles.csv)
 
 -Query created to develop a Retiring Titles table the contains the number of titles filled by employees who are retiring.  CSV created.
 ![Retiring_Titles.png](https://github.com/nkinsler/Pewlett_Hackard-Analysis/blob/main/PNG/Retiring%20Titles%20SQL.png)!
+
 [Retiring_Titles.csv](https://github.com/nkinsler/Pewlett_Hackard-Analysis/blob/main/Data/retiring_titles.csv)
 
 #### Major Points
@@ -34,6 +37,7 @@ After completion of the two SQL projects, we are to provide a report that summar
 
 -Query created to develop a Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.  CSV created.
 ![Mentoring_Eligibility.png](https://github.com/nkinsler/Pewlett_Hackard-Analysis/blob/main/PNG/Mentorship%20Eligibility%20SQL.png)!
+
 [Mentoring_Eligibility.csv](https://github.com/nkinsler/Pewlett_Hackard-Analysis/blob/main/Data/membership_eligibility.csv)
 
 #### Major Points
@@ -52,6 +56,7 @@ We refactored the code used to run the original analysis for departments instead
 
 The results are as follows:
 ![Mentoring_Dept.png](https://github.com/nkinsler/Pewlett_Hackard-Analysis/blob/main/PNG/Mentoring%20Dept.png)!
+
 ![Department_Eligibility.png](https://github.com/nkinsler/Pewlett_Hackard-Analysis/blob/main/PNG/Department%20Eligibility.png)!
 
 The results indicate that the focus of the mentorship should be around the development and production departments.  Both departments have the greatest number of available mentors while also representing the departments that will be most impacted by the “silver tsunami.” 
