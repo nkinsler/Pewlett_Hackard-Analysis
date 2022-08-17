@@ -55,6 +55,7 @@ After completion of the two SQL projects, we are to provide a report that summar
 We refactored the code used to run the original analysis for departments instead of titles.  Based on the results we determined the number of anticipated retirements by department and the mentors available by department.
 
 The results are as follows:
+
 ![Mentoring_Dept.png](https://github.com/nkinsler/Pewlett_Hackard-Analysis/blob/main/PNG/Mentoring%20Dept.png)!
 
 ![Department_Eligibility.png](https://github.com/nkinsler/Pewlett_Hackard-Analysis/blob/main/PNG/Department%20Eligibility.png)!
